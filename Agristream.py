@@ -276,7 +276,3 @@ st.divider()
 st.markdown("---")
 st.markdown("📊 **Data Source:** Kenya Crop Production 2019 | Built with Streamlit & Plotly")
 st.markdown(f"✅ **Auto-detected:** {num_counties} counties + 1 National Totals row (KENYA)")
-
-
-
-git remote add origin https://github.com/Shunka-ship-it/Kevin_Agri_Project1.git
